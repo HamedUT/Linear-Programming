@@ -1,4 +1,4 @@
-Scenario,Probability,Demand
-0,0.4,2
-1,0.3,6
-2,0.3,8
+Scenario;Probability;Demand
+0;0.4;2
+1;0.3;6
+2;0.3;8
